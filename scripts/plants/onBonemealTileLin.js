@@ -1,0 +1,25 @@
+var METADATA_MAX = 4;
+
+var x = position.x;
+var y = position.y;
+var z = position.z;
+
+var metadata = world.getBlockMetadata(position);
+// 1íiñ⁄ê¨ènçœÇ›
+if(metadata == METADATA_MAX){
+    var name = world.getBlockName(x, y + 1, z);
+    if(name == 'minecraft:air'){
+        // 2íiñ⁄ê¨í∑
+        world.setBlockAndMetadata(x, y + 1, z, 'Tutorial:tileLin', METADATA_MAX + 1);
+    }
+}
+// 1íiñ⁄ñ¢ê¨èn
+else if(0 <= metadata && metadata < METADATA_MAX){
+    // ê¨í∑
+    world.setBlockMetadata(position, Math.min(metadata + 2, METADATA_MAX));
+}
+
+// çúï≤1å¬è¡îÔ
+if(!player.isInCreative()){
+    player.removeFromSlot(player.getCurrentSlot(), 1);
+}

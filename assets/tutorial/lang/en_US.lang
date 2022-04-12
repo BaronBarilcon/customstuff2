@@ -1,0 +1,205 @@
+# CustomStuff2 Tutorial English Language File.
+
+#================
+#= Basic Blocks =
+#================
+tile.blockFlesh0.name=Block of Flesh
+tile.blockBone0.name=Block of Bone
+tile.blockBone4.name=Block of Bone
+tile.blockBone8.name=Block of Bone
+tile.blockBone12.name=Block of Bone
+tile.blockDustGunpowder0.name=Block of Gunpowder
+tile.blockBlaze0.name=Block of Blaze
+tile.blockCreeperOysters0.name=Block of Creeper Oysters
+tile.lampRedstoneInvert0.name=Invert Redstone Lamp
+tile.lampRedstoneInvert1.name=Invert Redstone Lamp
+tile.compressedCobblestone0.name=Compressed Cobblestone
+tile.compressedCobblestone1.name=Double Compressed Cobblestone
+tile.compressedCobblestone2.name=Triple Compressed Cobblestone
+tile.compressedCobblestone3.name=Quadruple Compressed Cobblestone
+tile.compressedCobblestone4.name=Quintuple Compressed Cobblestone
+tile.compressedCobblestone5.name=Sextuple Compressed Cobblestone
+tile.compressedCobblestone6.name=Septuple Compressed Cobblestone
+tile.compressedCobblestone7.name=Octuple Compressed Cobblestone
+tile.blockZirconia0.name=Block of Zirconia
+
+tile.stairsStone0.name=Stone Stairs
+tile.stairsStoneGranite0.name=Granite Stairs
+tile.stairsStoneGraniteSmooth0.name=Polished Granite Stairs
+tile.stairsStoneDiorite0.name=Diorite Stairs
+tile.stairsStoneDioriteSmooth0.name=Polished Diorite Stairs
+tile.stairsStoneAndesite0.name=Andesite Stairs
+tile.stairsStoneAndesiteSmooth0.name=Polished Andesite Stairs
+
+tile.slabStone0.name=Stone Slab
+tile.slabStone1.name=Granite Slab
+tile.slabStone2.name=Polished Granite Slab
+tile.slabStone3.name=Diorite Slab
+tile.slabStone4.name=Polished Diorite Slab
+tile.slabStone5.name=Andesite Slab
+tile.slabStone6.name=Polished Andesite Slab
+
+tile.slabDoubleStone0.name=Stone Slab
+tile.slabDoubleStone1.name=Granite Slab
+tile.slabDoubleStone2.name=Polished Granite Slab
+tile.slabDoubleStone3.name=Diorite Slab
+tile.slabDoubleStone4.name=Polished Diorite Slab
+tile.slabDoubleStone5.name=Andesite Slab
+tile.slabDoubleStone6.name=Polished Andesite Slab
+
+item.ingotZirconia0.name=Zirconia Ingot
+item.engravedEnergyChip0.name=Engraved Energy Chip
+
+
+#===========
+#= Special =
+#===========
+tile.automaticCobblestoneCondenser0.name=Automatic Cobblestone Condenser
+tile.automaticCobblestoneCondenser20.name=Automatic Cobblestone Condenser Mk-2
+
+tile.blockNone0.name=None Block
+item.supplierBlockNone0.name=None Block Supplier [ON]
+item.supplierBlockNone1.name=None Block Supplier [OFF]
+
+item.emptySpawnEgg0.name=Empty Spawn Egg
+tile.emptyMonsterSpawner0.name=Empty Monster Spawner
+
+item.transformerMosscrack0.name=Moss/Crack Transformer [Normal]
+item.transformerMosscrack1.name=Moss/Crack Transformer [Mossy]
+item.transformerMosscrack2.name=Moss/Crack Transformer [Cracked]
+
+item.tesseractPump0.name=Tesseract Pump [Remove]
+item.tesseractPump1.name=Tesseract Pump [Cell]
+
+item.sensorChest0.name=Chest Sensor
+
+item.helperEqualTrade0.name=Equal Trade Helper
+
+item.butlerMoonworm0.name=Moonworm Butler
+
+item.portableOreStorage0.name=Portable Ore Storage
+item.portableScanner0.name=Portable Scanner
+
+tile.siftingTable0.name=Sifting Table
+tile.siftingTable1.name=Sifting Table
+
+tile.farmblockPlant0.name=Farmblock (Plant)
+tile.farmblockPlant1.name=Farmblock (Plant)
+tile.farmblockGather0.name=Farmblock (Gather)
+tile.farmblockGather1.name=Farmblock (Gather)
+
+tile.blockDynamite0.name=Dynamite Mk I (3x3)
+tile.blockDynamite1.name=Dynamite Mk II (5x5)
+tile.blockDynamite2.name=Dynamite Mk III (7x7)
+tile.blockMiningCharge0.name=Mining Charge Mk I (3x3)
+tile.blockMiningCharge1.name=Mining Charge Mk II (5x5)
+tile.blockMiningCharge2.name=Mining Charge Mk III (7x7)
+
+tile.leverBlock0.name=Lever Block [WIP]
+tile.leverBlock1.name=Lever Block [WIP]
+
+tile.rainDetector0.name=Rain Detector
+tile.rainDetector1.name=Thunderstorm Detector
+tile.rainDetector8.name=Rain Detector
+tile.rainDetector9.name=Thunderstorm Detector
+
+#===================
+#= Twilight Forest =
+#===================
+tile.blockIronwood0.name=Block of Ironwood
+tile.blockFiery0.name=Block of Fiery Metal
+tile.blockSteeleaf0.name=Block of Steeleaf
+tile.blockArcticFur0.name=Block of Arctic Fur
+tile.blockCarminite0.name=Block of Carminite
+tile.blockAlphaYetiFur0.name=Block of Alpha Yeti Fur
+tile.blockLiveroot0.name=Block of Liveroot
+tile.blockNagaScale0.name=Block of Naga Scale
+tile.blockTorchberry0.name=Block of Torchberries
+tile.blockDustTransformation0.name=Block of Transformation Powder
+tile.blockDustBorerEssence0.name=Block of Borer Essence
+
+#========
+#= Dust =
+#========
+item.dust0.name=Granite Dust
+item.dust1.name=Diorite Dust
+item.dust2.name=Andesite Dust
+item.dust3.name=Carminite Dust
+item.dust4.name=Trolleite Dust
+item.dust5.name=Molybdite Dust
+item.dust6.name=Sperrylite Dust
+
+#==========
+#= Ingots =
+#==========
+item.ingot0.name=Bismuth Bronze Ingot
+item.ingot1.name=Bismuth Ingot
+item.ingot2.name=Black Bronze Ingot
+item.ingot3.name=Black Steel Ingot
+item.ingot4.name=Blue Steel Ingot
+item.ingot5.name=Brass Ingot
+item.ingot6.name=Bronze Ingot
+item.ingot7.name=Copper Ingot
+item.ingot8.name=Lead Ingot
+item.ingot9.name=Nickel Ingot
+item.ingot10.name=Pig Iron Ingot
+item.ingot11.name=Platinum Ingot
+item.ingot12.name=Red Steel Ingot
+item.ingot13.name=Rose Gold Ingot
+item.ingot14.name=Silver Ingot
+item.ingot15.name=Steel Ingot
+item.ingot16.name=Sterling Silver Ingot
+item.ingot17.name=Tin Ingot
+item.ingot18.name=Wrought Iron Ingot
+item.ingot19.name=Zinc Ingot
+
+#==========
+#= Potion =
+#==========
+item.potionHaste0.name=Potion of Haste
+item.potionHaste1.name=Potion of Haste
+item.potionHaste2.name=Potion of Haste
+
+#==============
+#= BTW Blocks =
+#==============
+tile.blockFlint0.name=Block of Flint
+tile.choppingBlock0.name=Chopping Block
+tile.beacon0.name=Beacon Unleasher
+tile.beacon1.name=Beacon Unleasher
+tile.beacon8.name=Beacon Unleasher
+tile.beacon9.name=Beacon Unleasher
+
+#=============
+#= BTW Items =
+#=============
+item.fuse0.name=Fuse
+
+#========
+#= only =
+#========
+tile.tileHemp0.name=Hemp
+tile.tileHemp1.name=Hemp
+tile.tileHemp2.name=Hemp
+tile.tileHemp3.name=Hemp
+tile.tileHemp4.name=Hemp
+tile.tileHemp5.name=Hemp
+tile.tileHemp6.name=Hemp
+tile.tileHemp7.name=Hemp
+tile.tileHemp8.name=Hemp
+item.seedsHemp0.name=Hemp Seeds
+item.hemp0.name=Hemp
+item.fibersHemp0.name=Hemp Fibers
+
+tile.tileLin0.name=Lin
+tile.tileLin1.name=Lin
+tile.tileLin2.name=Lin
+tile.tileLin3.name=Lin
+tile.tileLin4.name=Lin
+tile.tileLin5.name=Lin
+tile.tileLin6.name=Lin
+tile.tileLin7.name=Lin
+tile.tileLin8.name=Lin
+item.seedsLin0.name=Lin Seeds
+item.lin0.name=Lin
+item.fibersLin0.name=Lin Fibers
